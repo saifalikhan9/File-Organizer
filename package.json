@@ -1,5 +1,5 @@
 {
-  "name": "file-organizer",
+  "name": "file-organizer-by-extention",
   "version": "1.0.0",
   "description": "Organize files into folders based on their extensions",
   "main": "index.js",
