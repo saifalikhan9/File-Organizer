@@ -1,0 +1,16 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "Organize files into folders based on their extensions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saif Ali Khan",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "path": "^0.12.7"
+  }
+}
