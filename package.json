@@ -1,6 +1,6 @@
 {
   "name": "file-organizer-by-extention",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Organize files into folders based on their extensions",
   "main": "index.js",
   "type": "module",
